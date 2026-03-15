@@ -108,12 +108,7 @@ The analysis revealed several important insights:
 
 ## Dashboard Preview
 
-*(Insert a screenshot of your Power BI dashboard here)*
-
 Example:
 
 ![Dashboard Preview](dashboard.png)
 
----
-
-## Project Structure
